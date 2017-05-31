@@ -86,7 +86,7 @@ public class SWMCQueryBuilder {
 	/**
 	 * 根据分词结果生成SWMC搜索
 	 * @param fieldName
-	 * @param pathOption
+	 * @param lexemes
 	 * @param quickMode
 	 * @return
 	 */
